@@ -6,3 +6,6 @@ url: https://naik-amey.github.io/fictional-doodle
 
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://github.com/naik-amey/fictional-doodle
+
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/just-the-docs.png"
