@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Pytorch Basics
-parent: Pytorch
+title: Amey
 nav_order: 2
 ---
 
