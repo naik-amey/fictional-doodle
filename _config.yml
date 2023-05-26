@@ -9,3 +9,6 @@ aux_links: # remove if you don't want this link to appear on your pages
 
 # Set a path/url to a logo that will be displayed instead of the title
 # logo: "/assets/Israeli-palestinian-licence-plates.jpg"
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
